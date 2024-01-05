@@ -1,0 +1,23 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "keywords": [],
+  "author": "Harit",
+  "license": "ISC",
+  "description": "",
+  "browssersList": [
+    "last 2 version"
+  ]
+}
